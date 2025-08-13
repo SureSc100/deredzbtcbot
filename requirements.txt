@@ -1,0 +1,9 @@
+flask==3.0.3
+apscheduler==3.10.4
+binance-connector==3.6.0
+python-dotenv==1.0.1
+pandas==2.2.2
+numpy==1.26.4
+ta==0.11.0
+requests==2.32.3
+gunicorn==21.2.0
